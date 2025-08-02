@@ -4,3 +4,6 @@ mv 英会話vol5結構いい.html index.html
 git add index.html
 git commit -m "rename file to index.html"
 git push
+git add index.html
+git commit -m "add main app file"
+git push
